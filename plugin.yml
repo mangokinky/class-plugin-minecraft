@@ -1,0 +1,10 @@
+name: Class
+version: 1.0-BETA
+authors: [FeehGamer, CandyCZ01]
+main: org.feehgamer.classplugin.Main
+
+commands:
+   class:
+    permissions: 
+       class.use:
+          default: op
